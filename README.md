@@ -68,16 +68,12 @@ This tool focuses on:
 
 ## Screenshot / Demo
 
-Basic usage:
 ![Basic usage](docs/screenshots/basic-run.png)
 
-Pipeline usage:
 ![Pipeline](docs/screenshots/pipeline.png)
 
-Preview (It does not consume API credits):
 ![Preview](docs/screenshots/preview.png)
 
-Proxy usage:
 ![Proxy and Output](docs/screenshots/proxy-and-output.png)
 
 ---
